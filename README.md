@@ -1,4 +1,4 @@
-# sistemaCadastroLoginPHP-MySQL
+# Sistema Login PHP & MySQL
 
 ## sistema de cadastro e login com PHP e MySQL 
 
@@ -12,13 +12,13 @@ Web App com sessão, HTML, CSS, JAVASCRIPT, guardando os cadastros dos usuários
 
 * [Github](https://github.com/jeferson0993)
 * [Codepen](https://codepen.io/jeferson0993)
-* [linkedin](https://www.linkedin.com/in/jeferson-ferreira-4a036b143)
+* [Linkedin](https://www.linkedin.com/in/jeferson-ferreira-4a036b143)
 * [Portifolio](http://www.jeferson.ml)
 * jeferson@ferreirasilva.ml
 
 ### licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md] (LICENSE) para obter detalhes
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE) para obter detalhes
 
 ### Tecnologias utilizadas
 
