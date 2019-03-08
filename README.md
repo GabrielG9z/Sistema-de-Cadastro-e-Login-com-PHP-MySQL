@@ -2,7 +2,9 @@
 
 ## sistema de cadastro e login com PHP e MySQL 
 
-### Web App com sessão, HTML, CSS, JAVASCRIPT, guardando os cadastros dos usuários no banco de dados MYSQL através do PDO e PHP orientado a objetos.
+Web App com sessão, HTML, CSS, JAVASCRIPT, guardando os cadastros dos usuários no banco de dados MYSQL através do PDO e PHP orientado a objetos.
+
+### [Demonstração - Live demo](https://jeferson0993.000webhostapp.com/loginphpmysql)
 
 ### Autor
 
@@ -16,7 +18,7 @@
 
 ### licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md] (LICENSE) para obter detalhes
 
 ### Tecnologias utilizadas
 
